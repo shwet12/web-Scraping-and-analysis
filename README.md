@@ -8,3 +8,5 @@ In this project I have done web scraping from below websites
 
 I extracted the details of the 100 sportpersons from each male and female category and did analysis on the data
 using python.
+
+Libraries used - scrapy,matplotlib,pandas,numpy,bokeh
