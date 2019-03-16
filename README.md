@@ -1,7 +1,8 @@
 # web-Scraping-and-analysis
 
 
-In this project I have done web scraping from below websites 
+In this project I have done web scraping from below websites
+
 1)"https://healthyceleb.com/category/statistics/sports-stars/male-sports-stars"
 2)"https://healthyceleb.com/category/statistics/sports-stars/female-sports-stars"
 
